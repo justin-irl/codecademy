@@ -12,3 +12,6 @@ def more_than_n(lst, item, n):
 print(more_than_n([2, 4, 6, 2, 3, 2, 1, 2], 2, 3))
 
 # solved correctly!
+
+But they were all of them deceived, for another playlist was made
+https://screenshot.click/2019-12-tsscz-w6axr.png
